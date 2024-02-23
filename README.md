@@ -21,8 +21,8 @@ After cloning the repository, navigate to the directory containing the code file
 Once inside the repository directory, you can compile and run the code files using the appropriate commands. For C++ code, you typically compile using a compiler like g++ and then execute the compiled binary.
 
 ```
-g++ -o Program1 Program1.cpp
-./Program1
+g++ -o Problem1 Problem1.cpp
+./Problem1
 ```
 
 ## The Problem
